@@ -30,7 +30,7 @@ public class FactorialRecorsivo {
         return fact;
         
     }
-    
+    //Segunda modificacion examen git
     public static int factorialRecursivo(int n){
 
        if(n==0){    
