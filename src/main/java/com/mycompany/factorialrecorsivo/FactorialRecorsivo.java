@@ -20,7 +20,7 @@ public class FactorialRecorsivo {
         int resultadoDos=factorialRecursivo(valor);
         System.out.println(resultadoDos);
     }
-    
+    //MODIFICACIÓN PARA EL EXAMEN DE GIT
     public static int factorialIterativo(int n){
         int fact=1;
         for(int i=1;i<=n;i++){
